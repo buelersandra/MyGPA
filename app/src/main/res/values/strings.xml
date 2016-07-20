@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyGPA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gimpa">gimpaActivity</string>
+    <string name="title_activity_uni_grade">uni_grade</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_second">Second</string>
+    
+
+</resources>

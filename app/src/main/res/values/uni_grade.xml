@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gimpa_grade">
+        <item name="A">A</item>
+        <item name="A-">A-</item>
+        <item name="B+">B+</item>
+        <item name="B">B</item>
+        <item name="C+">C+</item>
+        <item name="C">C</item>
+        <item name="C-">C-</item>
+        <item name="D">D</item>
+        <item name="F">F</item>
+
+
+    </string-array>
+</resources>
